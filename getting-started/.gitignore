@@ -5,3 +5,4 @@
 
 /traefik/certs/*
 !/traefik/certs/.gitkeep
+.env
